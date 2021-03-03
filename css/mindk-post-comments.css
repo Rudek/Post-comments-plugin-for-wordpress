@@ -1,0 +1,22 @@
+.mindk-comment-form label {
+    display:block;
+    margin-bottom:5px;
+}
+
+.mindk-comment-form form p {
+    margin-bottom: 10px;
+}
+
+.mindk-comment-form input[type=text],
+.mindk-comment-form input[type=email],
+.mindk-comment-form textarea {
+    width:350px;
+}
+
+.comments p.comment-author {
+    margin-bottom:5px;
+}
+
+.post-comments-shortcode {
+    color:#ba1a00;
+}
